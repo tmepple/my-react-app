@@ -8,12 +8,10 @@
     "react-jsx": 2
   },
   "sources": ["src/pages", "src/components"],
-  "package-specs": [
-    {
-      "module": "es6",
-      "in-source": true
-    }
-  ],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
   "suffix": ".bs.js",
   "namespace": true,
   "bs-dependencies": ["reason-react"],
