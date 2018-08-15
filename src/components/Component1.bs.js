@@ -7,7 +7,7 @@ import * as ReasonReact from "reason-react/src/ReasonReact.js";
 var component = ReasonReact.statelessComponent("Page");
 
 function handleClick(_, _$1) {
-  console.log("clicked!");
+  console.log("cliccked!");
   return /* () */0;
 }
 
